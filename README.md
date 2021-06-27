@@ -1,6 +1,12 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub wgcvdfhcvdfcvdfcvudfjvjdbrk
+This repository is for showing how Git and GitHub wgcvdfhcvdfcvdfcvudfjvjddjgceuidcbejeceiuerk
+
+j
+c
+i
+a
+:`rhaecrk
 
 ## Purpose
 
