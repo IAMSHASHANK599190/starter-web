@@ -1,10 +1,10 @@
 # humanstxt.org/
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <name> -- <rodcsdcde> -- <twitter>
 
 # THANKS
-
+ Doing some changes locally`
     <name>
 fvdfkvnkdfvfdivudfveirfvuerfvhweuivcuwecdhuaegwcjbhaecgbjhacbjciweu
 # TECHNOLOGY COLOPHON
